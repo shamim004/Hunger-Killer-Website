@@ -1,0 +1,198 @@
+body{
+	width: 100%;
+
+	background-color: White;
+}
+
+.main-div-content{
+
+	margin: auto;
+}
+.main-div-padding{
+	padding: 8px 16px!important;
+}
+
+div{
+	font-family:Sans-serif;
+	
+	color: black;
+}
+.navbar {
+    overflow: hidden; 
+    background-color: black; 
+}
+.navbar a {
+    float: left; 
+    display: block; 
+    color: white; 
+    text-align: center; 
+    width:18.33%; /* Add some padding */
+    padding: 12px 15px;
+    text-decoration: none; 
+
+}
+.navbar a:hover {
+    background-color: #ddd; /* Grey background color */
+    color: gray; /* Black text color */
+}
+
+.header {
+    margin:0;
+    width:100%; /* some padding */
+    
+}
+.message{
+
+	    padding-top: 16px!important;
+      	padding-bottom: 16px!important;
+}
+.contact{
+	text-decoration: none;
+}
+#lol{
+	text-decoration: underline;
+}
+.form {
+    width: 20em;
+}
+.me-input {
+    padding: 8px;
+    display: block;
+    border: none;
+    border-bottom: 1px solid #ccc;
+    width: 75%;
+}
+.team-padding{
+	
+	padding: 0 8px;
+
+	
+
+}
+
+.team-grayscale{
+	filter: grayscale(75%);
+}
+
+.team-margin{
+	margin-bottom:16px!important;
+}
+
+.team-column{
+
+	width: 24.99999%;
+	float: left;
+}
+.team img {
+	
+	width: 400px;
+	height: 280px;
+	
+             
+}
+
+.responsive {
+    padding: 0 6px;
+    float: left;    
+    width: 23.99999%;
+}
+
+div{
+	display: block;
+}
+.middle-display{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    margin-top: 16px!important;
+}
+
+.home-search.main{
+	padding: 20px 0 15px 0;
+}
+#googleMap{
+
+	height: 450px;
+        width: 100%;
+        margin: auto;
+}
+.container{
+	padding: 0.01em 16px;
+}
+.border-bottom{
+
+	border-bottom: 1px solid #730D0D!important;
+}
+
+.padding-02 {
+    padding-top: 16px!important;
+    padding-bottom: 16px!important;
+}
+.opacity{
+	opacity: .6;
+}
+
+.contact-button{
+	width:360px;
+	opacity: .6;
+}
+
+div#contact {
+    float: left;
+	
+    width: 100%;
+}
+div#playesList {
+    float: left;
+    width: 100%;
+}
+
+
+
+.home-search li {
+    float: left;
+    padding: 0 0 0 12px;
+}
+
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+
+li.search-field {
+    padding-left: 0;
+}
+.home-search li {
+    float: left;
+    padding: 0 0 0 12px;
+}
+
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+
+.listing-type .jqTransformSelectWrapper {
+    border-radius: 3px 0 0 3px;
+}
+
+
+
+div {
+    display: block;
+}
+
+
+
+
+.form{
+    width: 100%; /* Full width */
+    padding: 12px; /* Some padding */  
+    
+    border-radius: 4px; /* Rounded borders */
+    box-sizing: border-box; /* Make sure that padding and width stays in place */
+    margin-top: 6px; /* Add a top margin */
+    margin-bottom: 16px; /* Bottom margin */
+    resize: vertical;
+}
